@@ -1,7 +1,6 @@
 EXEC = i2c_example
 SRC = main.c
 CFLAGS = -Wall -Wextra -O2
-CC = gcc
  
 all: $(EXEC)
  
